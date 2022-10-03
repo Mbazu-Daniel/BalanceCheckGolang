@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"BalanceCheckGolang/api" // this would be your generated smart contract bindings
+	"balancecheckgolang/api/api" // this would be your generated smart contract bindings
 
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/common"
